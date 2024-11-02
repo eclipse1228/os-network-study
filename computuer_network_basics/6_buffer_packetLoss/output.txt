@@ -1,0 +1,191 @@
+---receiver---
+packet 0 is received and there is error! (예절) (ACK = 0) is transmitted.
+packet 1 is received and there is error! (바른) (ACK = 7) is transmitted.
+packet 2 is received and there is error! ( 그) (ACK = 14) is transmitted.
+packet 3 is received and there is error! (가 ) (ACK = 21) is transmitted.
+packet 4 is received and there is error! (식당) (ACK = 28) is transmitted.
+packet 0 is received and there is error! (예절) (ACK = 28) is transmitted.
+packet 5 is received and there is error! (에서) (ACK = 35) is transmitted.
+packet 1 is received and there is error! (바른) (ACK = 35) is transmitted.
+packet 6 is received and there is error! ( 엄) (ACK = 42) is transmitted.
+packet 2 is received and there is error! ( 그) (ACK = 42) is transmitted.
+packet 7 is received and there is error! (마의) (ACK = 49) is transmitted.
+packet 8 is received and there is error! ( 상) (ACK = 56) is transmitted.
+packet 7 is received and there is error! (마의) (ACK = 56) is transmitted.
+packet 9 is received and there is error! (대를) (ACK = 63) is transmitted.
+packet 7 is received and there is error! (마의) (ACK = 63) is transmitted.
+packet 10 is received and there is error! ( 하) (ACK = 70) is transmitted.
+packet 7 is received and there is error! (마의) (ACK = 70) is transmitted.
+packet 11 is received and there is error! (고 ) (ACK = 77) is transmitted.
+packet 12 is received and there is error! (있을) (ACK = 84) is transmitted.
+packet 9 is received and there is error! (대를) (ACK = 84) is transmitted.
+packet 13 is received and there is error! ( 동) (ACK = 91) is transmitted.
+packet 13 is received and there is error! ( 동) (ACK = 91) is transmitted.
+packet 14 is received and there is error! (안 ) (ACK = 98) is transmitted.
+packet 13 is received and there is error! ( 동) (ACK = 98) is transmitted.
+packet 15 is received and there is error! (나는) (ACK = 105) is transmitted.
+packet 16 is received and there is error! ( 멍) (ACK = 112) is transmitted.
+packet 15 is received and there is error! (나는) (ACK = 112) is transmitted.
+packet 17 is received and there is error! (하니) (ACK = 119) is transmitted.
+packet 15 is received and there is error! (나는) (ACK = 119) is transmitted.
+packet 18 is received and there is error! ( 창) (ACK = 126) is transmitted.
+packet 15 is received and there is error! (나는) (ACK = 126) is transmitted.
+packet 19 is received and there is error! (가에) (ACK = 133) is transmitted.
+packet 20 is received and there is error! ( 앉) (ACK = 140) is transmitted.
+packet 17 is received and there is error! (하니) (ACK = 140) is transmitted.
+packet 21 is received and there is error! (아서) (ACK = 147) is transmitted.
+packet 21 is received and there is error! (아서) (ACK = 147) is transmitted.
+packet 22 is received and there is error! ( 저) (ACK = 154) is transmitted.
+packet 21 is received and there is error! (아서) (ACK = 154) is transmitted.
+packet 23 is received and there is error! (물어) (ACK = 161) is transmitted.
+packet 24 is received and there is error! ( 가) (ACK = 168) is transmitted.
+packet 23 is received and there is error! (물어) (ACK = 168) is transmitted.
+packet 25 is received and there is error! (는 ) (ACK = 175) is transmitted.
+packet 23 is received and there is error! (물어) (ACK = 175) is transmitted.
+packet 26 is received and there is error! (하늘) (ACK = 182) is transmitted.
+packet 23 is received and there is error! (물어) (ACK = 182) is transmitted.
+packet 27 is received and there is error! (을 ) (ACK = 189) is transmitted.
+packet 28 is received and there is error! (바라) (ACK = 196) is transmitted.
+packet 25 is received and there is error! (는 ) (ACK = 196) is transmitted.
+packet 29 is received and there is error! (다보) (ACK = 203) is transmitted.
+packet 29 is received and there is error! (다보) (ACK = 203) is transmitted.
+packet 30 is received and there is error! (고 ) (ACK = 210) is transmitted.
+packet 29 is received and there is error! (다보) (ACK = 210) is transmitted.
+packet 31 is received and there is error! (있다) (ACK = 217) is transmitted.
+packet 32 is received and there is error! (.) (ACK = 224) is transmitted.
+transmitted. (" 그")
+packet 3 is transmitted. ("가 ")
+(ACK = 0) is received and packet 4 is transmitted. ("식당")
+packet 0 is transmitted. ("예절")
+(ACK = 7) is received and packet 5 is transmitted. ("에서")
+packet 1 is transmitted. ("바른")
+(ACK = 14) is received and packet 6 is transmitted. (" 엄")
+packet 2 is transmitted. (" 그")
+(ACK = 21) is received and packet 7 is transmitted. ("마의")
+packet 3 is transmitted. ("가 ")
+packet 4 is transmitted. ("식당")
+(ACK = 28) is received and packet 8 is transmitted. (" 상")
+packet 5 is transmitted. ("에서")
+packet 6 is transmitted. (" 엄")
+packet 7 is transmitted. ("마의")
+packet 8 is transmitted. (" 상")
+(ACK = 35) is received and packet 9 is transmitted. ("대를")
+packet 5 is transmitted. ("에서")
+packet 6 is transmitted. (" 엄")
+packet 7 is transmitted. ("마의")
+packet 8 is transmitted. (" 상")
+(ACK = 42) is received and packet 10 is transmitted. (" 하")
+packet 9 is transmitted. ("대를")
+packet 10 is transmitted. (" 하")
+packet 7 is transmitted. ("마의")
+packet 8 is transmitted. (" 상")
+(ACK = 49) is received and packet 11 is transmitted. ("고 ")
+packet 9 is transmitted. ("대를")
+packet 10 is transmitted. (" 하")
+(ACK = 56) is received and packet 12 is transmitted. ("있을")
+packet 11 is transmitted. ("고 ")
+packet 12 is transmitted. ("있을")
+packet 9 is transmitted. ("대를")
+packet 10 is transmitted. (" 하")
+(ACK = 63) is received and packet 13 is transmitted. (" 동")
+packet 11 is transmitted. ("고 ")
+packet 12 is transmitted. ("있을")
+packet 13 is transmitted. (" 동")
+packet 10 is transmitted. (" 하")
+(ACK = 70) is received and packet 14 is transmitted. ("안 ")
+packet 11 is transmitted. ("고 ")
+packet 12 is transmitted. ("있을")
+packet 13 is transmitted. (" 동")
+packet 14 is transmitted. ("안 ")
+(ACK = 77) is received and packet 15 is transmitted. ("나는")
+packet 11 is transmitted. ("고 ")
+packet 12 is transmitted. ("있을")
+(ACK = 84) is received and packet 16 is transmitted. (" 멍")
+packet 13 is transmitted. (" 동")
+packet 14 is transmitted. ("안 ")
+packet 15 is transmitted. ("나는")
+packet 16 is transmitted. (" 멍")
+(ACK = 91) is received and packet 17 is transmitted. ("하니")
+packet 13 is transmitted. (" 동")
+packet 14 is transmitted. ("안 ")
+packet 15 is transmitted. ("나는")
+packet 16 is transmitted. (" 멍")
+(ACK = 98) is received and packet 18 is transmitted. (" 창")
+packet 17 is transmitted. ("하니")
+packet 18 is transmitted. (" 창")
+packet 15 is transmitted. ("나는")
+packet 16 is transmitted. (" 멍")
+(ACK = 105) is received and packet 19 is transmitted. ("가에")
+packet 17 is transmitted. ("하니")
+packet 18 is transmitted. (" 창")
+(ACK = 112) is received and packet 20 is transmitted. (" 앉")
+packet 19 is transmitted. ("가에")
+packet 20 is transmitted. (" 앉")
+packet 17 is transmitted. ("하니")
+packet 18 is transmitted. (" 창")
+(ACK = 119) is received and packet 21 is transmitted. ("아서")
+packet 19 is transmitted. ("가에")
+packet 20 is transmitted. (" 앉")
+packet 21 is transmitted. ("아서")
+packet 18 is transmitted. (" 창")
+(ACK = 126) is received and packet 22 is transmitted. (" 저")
+packet 19 is transmitted. ("가에")
+packet 20 is transmitted. (" 앉")
+packet 21 is transmitted. ("아서")
+packet 22 is transmitted. (" 저")
+(ACK = 133) is received and packet 23 is transmitted. ("물어")
+packet 19 is transmitted. ("가에")
+packet 20 is transmitted. (" 앉")
+(ACK = 140) is received and packet 24 is transmitted. (" 가")
+packet 21 is transmitted. ("아서")
+packet 22 is transmitted. (" 저")
+packet 23 is transmitted. ("물어")
+packet 24 is transmitted. (" 가")
+(ACK = 147) is received and packet 25 is transmitted. ("는 ")
+packet 21 is transmitted. ("아서")
+packet 22 is transmitted. (" 저")
+packet 23 is transmitted. ("물어")
+packet 24 is transmitted. (" 가")
+(ACK = 154) is received and packet 26 is transmitted. ("하늘")
+packet 25 is transmitted. ("는 ")
+packet 26 is transmitted. ("하늘")
+packet 23 is transmitted. ("물어")
+packet 24 is transmitted. (" 가")
+(ACK = 161) is received and packet 27 is transmitted. ("을 ")
+packet 25 is transmitted. ("는 ")
+packet 26 is transmitted. ("하늘")
+(ACK = 168) is received and packet 28 is transmitted. ("바라")
+packet 27 is transmitted. ("을 ")
+packet 28 is transmitted. ("바라")
+packet 25 is transmitted. ("는 ")
+packet 26 is transmitted. ("하늘")
+(ACK = 175) is received and packet 29 is transmitted. ("다보")
+packet 27 is transmitted. ("을 ")
+packet 28 is transmitted. ("바라")
+packet 29 is transmitted. ("다보")
+packet 26 is transmitted. ("하늘")
+(ACK = 182) is received and packet 30 is transmitted. ("고 ")
+packet 27 is transmitted. ("을 ")
+packet 28 is transmitted. ("바라")
+packet 29 is transmitted. ("다보")
+packet 30 is transmitted. ("고 ")
+(ACK = 189) is received and packet 31 is transmitted. ("있다")
+packet 27 is transmitted. ("을 ")
+packet 28 is transmitted. ("바라")
+(ACK = 196) is received and packet 32 is transmitted. (".")
+packet 29 is transmitted. ("다보")
+packet 30 is transmitted. ("고 ")
+packet 31 is transmitted. ("있다")
+packet 32 is transmitted. (".")
+(ACK = 203) is received and packet 32 is transmitted. (".")
+packet 29 is transmitted. ("다보")
+packet 30 is transmitted. ("고 ")
+packet 31 is transmitted. ("있다")
+packet 32 is transmitted. (".")
+(ACK = 210) is received and packet 32 is transmitted. (".")
+packet 30 is transmitted. ("고 ")
+packet 31 is transmitted. ("있다")
+packet 32 is transmitted. (".")
+packet 31 is transmitted. ("있다")
+(ACK = 217) is received and packet 32 is transmitted. (".")
+packet 32 is transmitted. (".")
